@@ -29,7 +29,8 @@ El desarrollo se construyó siguiendo las mejores prácticas recomendadas para e
 
 | Convertidor Inteligente | Pizarra de Precios |
 <img width="1080" height="2340" alt="Captura de pantalla 2026-06-08 234047" src="https://github.com/user-attachments/assets/bdb143cf-c3e1-4c80-b20d-41759df05fa7" />
-<img width="1080" height="2340" alt="Captura de pantalla 2026-05-16 204547" src="https://github.com/user-attachments/assets/b4e2ff66-7b10-4a9d-8c40-c281b60708c6" />
+<img width="1080" height="2340" alt="Captura de pantalla 2026-06-08 234009" src="https://github.com/user-attachments/assets/3e1dc2fb-69ac-491a-a25b-3ac035963efd" />
+
 
 
 ---
