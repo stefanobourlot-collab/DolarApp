@@ -40,4 +40,4 @@ Si querés clonar el proyecto y probarlo en tu entorno local:
 
 1. Cloná este repositorio:
    ```bash
-   git clone [https://github.com/stefanobourlot-collab/DolarApp-Android.git](https://github.com/TU_USUARIO/DolarApp-Android.git)
+   git clone [https://github.com/stefanobourlot-collab/DolarApp-Android.git](https://github.com/stefanobourlot-collab/DolarApp-Android.git)
